@@ -1,0 +1,36 @@
+{
+  "audiovisual_files": {
+    "59129f40-986a-4af1-b35b-5629b5790d74": {
+      "label": "Beyoncé - Samples/Interpolations from 'RENAISSANCE'",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=VBHDLvdNNbQ&t=517s",
+      "duration": 781,
+      "caption_set": []
+    },
+    "88afe4b2-02da-46f3-8095-4ca1fb89df02": {
+      "label": "Beyoncé - PURE/HONEY (Official Lyric Video)",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=WM133A3vqLE",
+      "duration": 297,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“PURE/HONEY” is a mainstream cultural product deriving from a robust Black LGBTQ+ epistemology and literacy in performance and soundscaping practices. I use the term soundscaping here to refer to the Black LGBTQ+ community’s sonic practices that initially engaged and shifted the physical world, personal lives and material conditions of community members in the ballroom system. Now brought to the global soundscape with a tour, Black LGBTQ+ individuals’ roles in shaping global sounds with speakers of the community and not, must be examined. I examine the sonic and lyrical content of “PURE/HONEY” through linguistics, Black studies, queer and trans studies, to reveal how Black LGBTQ+ people develop linguistic, performative, and existential possibilities for themselves, other individuals of the community and now those outside."
+        }
+      ]
+    }
+  ],
+  "citation": "\"Black LGBTQ+ Sound and the Politics of Illegitmated Language:  Ballroom Soundscapes, Mixes and Beyond\" ",
+  "item_type": "Video",
+  "label": "PURE/HONEY ",
+  "created_at": "2025-01-21T01:54:42.277Z",
+  "created_by": "Alyssaf-j",
+  "updated_at": "2025-01-21T01:54:42.277Z",
+  "updated_by": "Alyssaf-j"
+}
