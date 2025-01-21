@@ -4,21 +4,9 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "event",
-      "uuid": "e2e5ab77-99fe-43c9-af3c-e16d8243119a",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
+          "text": "Full original song, \"PURE/HONEY\" by Beyoncé ft Kevin Aviance, Moi Renée, Kevin JZ Prodigy and MikeQ",
+          "bold": true,
+          "underline": true
         }
       ]
     },
@@ -39,9 +27,80 @@
         "label",
         "description"
       ],
-      "start": 498,
-      "end": 578,
-      "file": "59129f40-986a-4af1-b35b-5629b5790d74",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The full samples and interpolations",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "e2e5ab77-99fe-43c9-af3c-e16d8243119a",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " Clips of each sampled portion ",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "2ac6b810-e473-49cf-976b-67118958e799",
+        "end": 60,
+        "file": "a5e7968a-a0d4-4939-83e7-26488eed8405"
+      },
+      "event2": {
+        "uuid": "81c0b94f-335d-4e83-a576-710160a7a943",
+        "end": 60,
+        "file": "baeeb6f2-c34b-4050-a560-8835bf0f6219"
+      },
       "children": [
         {
           "text": ""
@@ -61,7 +120,7 @@
   "created_by": "Alyssaf-j",
   "title": "PURE/HONEY ",
   "slug": "purehoney",
-  "updated_at": "2025-01-21T02:42:26.044Z",
+  "updated_at": "2025-01-21T02:59:02.265Z",
   "updated_by": "Alyssaf-j",
   "autogenerate": {
     "enabled": false,
