@@ -13,10 +13,35 @@
       "uuid": "e2e5ab77-99fe-43c9-af3c-e16d8243119a",
       "includes": [
         "media",
-        "label"
+        "description"
       ],
       "start": 0,
       "file": "88afe4b2-02da-46f3-8095-4ca1fb89df02",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "e2e5ab77-99fe-43c9-af3c-e16d8243119a",
+      "includes": [
+        "media",
+        "label",
+        "description"
+      ],
+      "start": 497,
+      "end": 540,
+      "file": "59129f40-986a-4af1-b35b-5629b5790d74",
       "children": [
         {
           "text": ""
@@ -36,7 +61,7 @@
   "created_by": "Alyssaf-j",
   "title": "PURE/HONEY ",
   "slug": "purehoney",
-  "updated_at": "2025-01-23T22:42:39.084Z",
+  "updated_at": "2025-01-23T22:49:41.554Z",
   "updated_by": "Alyssaf-j",
   "autogenerate": {
     "enabled": false,
