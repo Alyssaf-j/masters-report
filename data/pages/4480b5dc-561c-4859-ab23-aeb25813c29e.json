@@ -47,6 +47,47 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Examples of Black soundscape(s) archives:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chicago Black Social Culture Map:",
+          "link": "https://cbscmap.omeka.net/"
+        },
+        {
+          "text": "https://cbscmap.omeka.net/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sonic Street Technologies:",
+          "link": "https://sonic-street-technologies.com/"
+        },
+        {
+          "text": "https://sonic-street-technologies.com/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Soundscapes",
@@ -57,6 +98,6 @@
   "slug": "soundscapes",
   "created_at": "2025-01-21T04:58:02.721Z",
   "created_by": "Alyssaf-j",
-  "updated_at": "2025-02-11T04:09:19.706Z",
+  "updated_at": "2025-02-11T04:16:15.864Z",
   "updated_by": "Alyssaf-j"
 }
