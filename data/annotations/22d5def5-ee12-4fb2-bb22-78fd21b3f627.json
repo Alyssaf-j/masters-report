@@ -278,7 +278,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Ballroom Culture",
+          "tag": "repitition"
+        }
+      ],
       "uuid": "243546ae-77cd-4c0e-8cb8-47d19b77e06c"
     },
     {
