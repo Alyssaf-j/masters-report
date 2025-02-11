@@ -182,7 +182,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Ballroom Culture",
+          "tag": "Black LGBTQ+ discourse"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "embodied performance"
+        }
+      ],
       "uuid": "e2d73f3b-c914-4a87-94a3-79425e80fc42"
     },
     {
