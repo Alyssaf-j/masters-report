@@ -60,10 +60,10 @@
   "created_by": "Alyssaf-j",
   "title": "PURE/HONEY ",
   "slug": "purehoney",
-  "updated_at": "2025-02-11T03:59:31.160Z",
+  "updated_at": "2025-02-11T04:25:31.026Z",
   "updated_by": "Alyssaf-j",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "e2e5ab77-99fe-43c9-af3c-e16d8243119a"
   }
