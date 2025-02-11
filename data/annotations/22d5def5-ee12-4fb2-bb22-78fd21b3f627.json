@@ -93,7 +93,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Ballroom Culture",
+          "tag": "repitition"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "embodied performance"
+        }
+      ],
       "uuid": "9cfd943e-28b1-4591-8125-9c7f3cd645b4"
     },
     {
