@@ -72,7 +72,73 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "New York AAE: /r/ devocalization, or derhoticization; /bought/ raising; and realization of /boat/"
+          "text": "New York AAE: /r/ devocalization, or derhoticization; /bought/ raising; and realization of /boat/ (Blake, Shousterman, Newlin-Lukowicz 278)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ex: /mutha/, /call/ /caught/, West Indies realization of /boat/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "bca7b694-fa73-475c-b2b8-c179df307df3",
+      "includes": [
+        "media",
+        "annotations",
+        "label"
+      ],
+      "start": 49,
+      "end": 62,
+      "file": "f9504ec4-ac19-4f5c-be45-ef8f6d47f7c3",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "/calling/ realization --> /bought/"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "81c0b94f-335d-4e83-a576-710160a7a943",
+      "includes": [
+        "media",
+        "annotations",
+        "label"
+      ],
+      "start": 140,
+      "end": 146,
+      "file": "baeeb6f2-c34b-4050-a560-8835bf0f6219",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Feeling like a rose\" --> /boat/ realization and \"an orchid\" --> derhoticization -/r/"
         }
       ]
     },
@@ -93,6 +159,6 @@
   "slug": "african-american-englishs-regional-dialects",
   "created_at": "2025-03-27T19:26:11.992Z",
   "created_by": "Alyssaf-j",
-  "updated_at": "2025-03-27T19:26:11.993Z",
+  "updated_at": "2025-03-27T19:57:47.749Z",
   "updated_by": "Alyssaf-j"
 }
