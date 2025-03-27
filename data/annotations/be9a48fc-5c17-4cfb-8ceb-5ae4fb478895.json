@@ -450,6 +450,39 @@
         }
       ],
       "uuid": "bdccc281-2f06-440b-af22-ef10495d49f1"
+    },
+    {
+      "start_time": 124,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sample mixing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Black Sonic Traditions",
+          "tag": "adlibs"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "repitition"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "remixing"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "embodied performance"
+        }
+      ],
+      "uuid": "dfb2e143-926a-4a53-8ae3-237e60aca41a"
     }
   ],
   "set": "Default",
