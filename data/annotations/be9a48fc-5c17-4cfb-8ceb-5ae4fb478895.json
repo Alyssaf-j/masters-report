@@ -257,6 +257,83 @@
         }
       ],
       "uuid": "091fb57a-d08b-46e2-92dd-7ec50782b188"
+    },
+    {
+      "start_time": 90,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“PURE/HONEY”:\t\t\t“Cunty” and “Miss Honey”:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "27\tGet your money, money, \t3\tCunty, cunty, cunty, cunty,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cunty, hunty\t\t\t\t                cunty, cunty"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "39\tSweet honey sin, taste it \t1\tMiss Honey, Miss Honey"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "on your lips"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The “left/right” parallelism of discourse shows a transformation between songs from question to command, something that otherwise isn’t an obvious call-back without the lyrics of “Feels Like” present. Moving into the directive, Beyoncé reminds “bad bitches” and “money bitches” that “You can be both, meet in the middle, dance all night”. This meeting in the middle between Black community members feels like call for shared space to make and maintain Black LGBTQ+ traditions and ballroom culture, despite monetary or physical difference. Giving directions in song also points to a powerful Black musical lineage, especially in the world of ballroom where its function is to guide the movement of performers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These examples of paralleled discourses–specifically with the Black LGBTQ+ discourses of “cunty” and “hunty”– not only upkeep the sonic continuity between vocalists but also the semantic continuity of Black LGBTQ+ traditions. Beyoncé presents a morphological innovation which emerged within the Black LGBTQ+ community with the words ‘cunty’ and ‘honey’, turning it into ‘hunty’. The discourse marker “cunt/y” appears in “Feels Like” and “Cunty (Feels Like)” Wave Mix, which also share the concept of ‘feeling’ in their titles. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Black LGBTQ+ Discourse",
+          "tag": "cunt discourse"
+        },
+        {
+          "category": "Black LGBTQ+ Discourse",
+          "tag": "onomatopoetics"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "Black LGBTQ+ discourse"
+        }
+      ],
+      "uuid": "c8d7c9a4-29da-4c3a-8a92-f8555dfa9f48"
     }
   ],
   "set": "Default",
