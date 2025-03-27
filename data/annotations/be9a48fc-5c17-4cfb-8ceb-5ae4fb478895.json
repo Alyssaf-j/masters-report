@@ -582,6 +582,35 @@
         }
       ],
       "uuid": "596fad4b-1462-4130-9bd6-125cca8b9b3d"
+    },
+    {
+      "start_time": 280,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sample mixing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Ballroom Culture",
+          "tag": "repitition"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "Black LGBTQ+ discourse"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "embodied performance"
+        }
+      ],
+      "uuid": "958021aa-df1f-413a-8999-bdffdff54f82"
     }
   ],
   "set": "Default",
