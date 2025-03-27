@@ -557,6 +557,31 @@
         }
       ],
       "uuid": "7e0d0978-225f-4319-93f5-631c0bb26528"
+    },
+    {
+      "start_time": 266,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sample mixing (only instrumental)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Ballroom Culture",
+          "tag": "performance marking"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "remixing"
+        }
+      ],
+      "uuid": "596fad4b-1462-4130-9bd6-125cca8b9b3d"
     }
   ],
   "set": "Default",
