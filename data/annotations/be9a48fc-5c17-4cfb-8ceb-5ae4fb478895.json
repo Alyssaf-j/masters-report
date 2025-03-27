@@ -483,6 +483,47 @@
         }
       ],
       "uuid": "dfb2e143-926a-4a53-8ae3-237e60aca41a"
+    },
+    {
+      "start_time": 157,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sample mixing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin JZ Prodigy"
+        },
+        {
+          "category": "Black Sonic Traditions",
+          "tag": "adlibs"
+        },
+        {
+          "category": "Black Sonic Traditions",
+          "tag": "MCing"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "repitition"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "remixing"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "performance marking"
+        }
+      ],
+      "uuid": "a23e8d1f-5aa2-438b-b83b-334dff218dff"
     }
   ],
   "set": "Default",
