@@ -222,6 +222,15 @@
       "align": "left",
       "children": [
         {
+          "text": "Rose, Tricia. Black Noise: Rap Music and Black Culture in Contemporary America. Wesleyan University Press, 1994. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
           "text": "Royster, Francesca T. "
         },
         {
@@ -349,6 +358,6 @@
   "slug": "bibliography",
   "created_at": "2025-02-11T04:24:19.661Z",
   "created_by": "Alyssaf-j",
-  "updated_at": "2025-02-11T04:24:46.775Z",
+  "updated_at": "2025-03-27T17:13:41.042Z",
   "updated_by": "Alyssaf-j"
 }
