@@ -176,6 +176,87 @@
         }
       ],
       "uuid": "17940634-c954-4fc9-998a-9a04b7f7adff"
+    },
+    {
+      "start_time": 47,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The discursive references Beyoncé makes to ballroom and the sampled Icons and Legends include lines 21-22, 27 and 39:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“PURE/HONEY”:\t\t\t“Feels Like”:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "21\tBad bitches to the left\t\t41\tShould I go, should I go, should I"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "22\tMoney bitches to the right\t\tgo left?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\t\t\t\t\t                42\tShould I go, should I go, should I go right?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Kevin JZ Prodigy"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "Black LGBTQ+ discourse"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "embodied performance"
+        },
+        {
+          "category": "Ballroom Culture",
+          "tag": "performance marking"
+        }
+      ],
+      "uuid": "091fb57a-d08b-46e2-92dd-7ec50782b188"
     }
   ],
   "set": "Default",
