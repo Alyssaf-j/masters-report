@@ -334,6 +334,31 @@
         }
       ],
       "uuid": "c8d7c9a4-29da-4c3a-8a92-f8555dfa9f48"
+    },
+    {
+      "start_time": 22,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sample mixing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Ballroom Culture",
+          "tag": "remixing"
+        },
+        {
+          "category": "Black Sonic Traditions",
+          "tag": "adlibs"
+        }
+      ],
+      "uuid": "e36c2939-8dc2-4c4a-8533-aad0bb83d713"
     }
   ],
   "set": "Default",
